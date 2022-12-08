@@ -14,7 +14,7 @@
 <body>
 	<header></header>
 	<main>
-        <section id="topBoxContainer">
+ <!--       <section id="topBoxContainer">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
     </main>
 	<footer></footer>
 	<script type="text/javascript" src=""></script>
