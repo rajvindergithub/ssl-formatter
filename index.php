@@ -58,8 +58,29 @@
             
             newStringArray.push(getInputData.split(""));
             
-            console.log(newStringArray);
+           console.log(newStringArray[0]);
+            
+            var outputText = '';
+            
+            outputText += newStringArray[0][0];
+            
+             var k = 0; 
+            
+            for(var i = 2; i < newStringArray[0].length; i++){
+                
+                outputText += newStringArray[0][i]; 
+                 
+                if(i%64 == 0){
+                    outputText += '\n';
+                   } 
+                
+            }
+             
+            console.log(outputText);
+            
            
+            
+            
             
             
         });
