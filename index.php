@@ -13,7 +13,31 @@
 
 <body>
 	<header></header>
-	<main></main>
+	<main>
+ <!--       <section id="topBoxContainer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="sslbox-area">
+                            <textarea id="inputssl"></textarea>
+                        </div>
+                    </div>
+                     <div class="col-md-6">
+                        <div class="sslbox-area">
+                            <textarea id="outputssl"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="formatButtonSsl">
+                            <button id="formatSslButton">Format</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>-->
+    </main>
 	<footer></footer>
 	<script type="text/javascript" src=""></script>
 </body>
